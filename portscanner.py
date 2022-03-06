@@ -11,7 +11,7 @@ print("Scanning host", userIP)
 print("-" * 60)
 
 # Change filepath in accordance to personal system 
-filePath = "/home/hackerman/PycharmProjects/module8/"
+filePath = "/home/hackerman/PycharmProjects/"
 
 # File path and filename can be altered as user sees fit
 with open(filePath + "openPorts.txt", "a") as openPorts:
